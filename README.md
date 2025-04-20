@@ -1,6 +1,8 @@
 ## Playlistor
 self-hosted apple music to spotify playlist convertor
 
+LUCIAN P - I added a checkbox to invert the playlist import into apple music so that when you are adding a new song to the playlist it adds to the end of the playlist properly, like spotify would add to the beginning of the playlist.
+
 [![CircleCI](https://circleci.com/gh/akornor/playlistor/tree/master.svg?style=svg)](https://circleci.com/gh/akornor/playlistor/tree/master)
 
 ## Demo
